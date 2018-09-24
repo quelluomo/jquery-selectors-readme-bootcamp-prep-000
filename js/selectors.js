@@ -1,1 +1,2 @@
 $('selector-goes-here')
+$('.pics')
