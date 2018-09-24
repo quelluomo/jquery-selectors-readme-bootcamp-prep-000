@@ -1,2 +1,0 @@
-$('selector-goes-here')
-$('.pics')
